@@ -1,5 +1,4 @@
 # Inventory Management System (Java + JDBC + Multithreading + Collections)
-# Inventory Management System
 
 A console-based Inventory Management System built with core Java.
 A **console-based Java application** for managing product inventory, stock levels, billing, and sales reports. Data is stored in an embedded **H2** database and accessed through a simple text menu in the terminal.
